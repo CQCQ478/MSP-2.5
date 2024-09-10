@@ -1,436 +1,1174 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725937132594 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725937601938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937135665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937605005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937138731 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937608069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937141798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937611132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937144859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937614201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937147917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937617265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937150981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937620337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937154047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937623393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937157105 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937626462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937160173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937629529 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937163236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937632589 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937166294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937635655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937169355 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937638729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937172430 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937641806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937175491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937644868 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937178548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937647939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937181608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937651000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937184671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937654061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937187739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937657122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937190798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937660187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937193867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937663253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937197012 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937666310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937200076 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937669371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937203141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937672426 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937206199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937675499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937209257 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937678561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937212321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937681618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937215385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937684691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937218447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937687762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937221508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937690825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937224574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937693904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937227640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937696967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937230704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937700025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937233776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937703088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937236850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937706183 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937239907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937709246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937242981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937712324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937246039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937715394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937249106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937718458 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937252163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937721521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937255229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937724588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937258299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937727657 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937261372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937730729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937264445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937733797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937267505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937736866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937270566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937739945 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937273624 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937743028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937276683 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937746090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937279757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937749154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937282821 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937752220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937285885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937755277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937288959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937758339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937292034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937761400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937295115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937764476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937298186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937767534 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937301243 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937770602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937304318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937773672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937307381 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937776729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937310446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937779802 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937313512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937782861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937316570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937785921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937319634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937788980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937322699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937792036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937325772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937795094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937328828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937798152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937331888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937801221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937334945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937804286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937338006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937807369 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937341070 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937810429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937344130 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937813488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937347196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937816544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937350271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937819619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.23): 1725937353334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725937822692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937825750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937828818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937831882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937834962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937838026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937841094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937844160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937847301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937850365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937853429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937856488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937859554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937862613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937865678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937868739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937871815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937874880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937877949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937881009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937884074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937887135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937890200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937893259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937896331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937899390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937902456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937905516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937908583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937911638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937914701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937917764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937920827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937923895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937926950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937930025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937933089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937936145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937939204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937942261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937945324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937948399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937951462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937954526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937957586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937960661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937963728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937966791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937969858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937972919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937975978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937979048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937982118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937985184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937988244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937991320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937994384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725937997444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938000504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938003569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938006626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938009705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938012766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938015824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938018880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938021949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938025023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938028079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938031150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938034223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938037289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938040356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938043413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938046473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938049533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938052591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938055660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938058720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938061779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938064838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938067896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938070957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938074016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938077082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938080138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938083223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938086295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938089369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938092429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938095495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938098556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938101620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938104685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938107767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938110834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938113899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938116963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938120055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938123124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938126183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938129242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938132301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938135361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938138444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938141508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938144566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938147630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938150689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938153748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938156809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938159870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938162931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938166001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938169080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938172147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938175211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938178296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938181373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938184437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938187502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938190563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938193628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938196690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unit-shark.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+agency-salvador.gl.at.ply.gg:4807 => 127.0.0.1:4807 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.23): 1725938199747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
